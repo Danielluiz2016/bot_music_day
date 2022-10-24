@@ -4,4 +4,4 @@ Um bot pensado e idealizado para trazer melhor qualidade e satisfação ao usuá
 
 Em breve mais atualização.
 
-# Atualizações
+#
